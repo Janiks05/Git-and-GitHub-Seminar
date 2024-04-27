@@ -25,3 +25,5 @@ Supporting documents and information for the Git and GitHub seminar
 6. SSH-Keys in einem der eigenen repos anlegen
 
 7. Die Aktivitäten mit einem der vorgestellten Git Client nachvollziehen
+
+8. Aenderung1
